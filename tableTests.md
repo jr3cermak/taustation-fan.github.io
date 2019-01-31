@@ -28,7 +28,7 @@
     <td colspan="2">Three</td>
   </tr>
   <tr>
-    <td><img src="assets/png/bar.png" title="bar"/></td>
-    <td>bar</td>
+    <td><img src="assets/png/bars.png" title="bars"/></td>
+    <td>bars</td>
   </tr>
 </table>
