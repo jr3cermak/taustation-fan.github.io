@@ -16,3 +16,15 @@
 | --- | --- |
 | bar |
 | bar | baz | boo |
+
+> Test 4
+
+<table>
+  <tr>
+    <td>One</td>
+    <td>Two</td>
+  </tr>
+  <tr>
+    <td colspan="2">Three</td>
+  </tr>
+</table>
