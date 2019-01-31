@@ -7,7 +7,7 @@
 > Test 2
 
 | abc | def |
-| --- |
+| - | - |
 | bar |
 
 > Test 3
