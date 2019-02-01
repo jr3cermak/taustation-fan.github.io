@@ -64,8 +64,53 @@ This page is part of the [Unofficial Player's Guide to Tau Station](/).
       <td>København</td>
     </tr>
     <tr>
-      <td><img src="assets/png/bars.png" title="brig"/></td>
-      <td>bars</td>
+      <td>&nbsp;</td>
+      <td>Daedalus</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>Taungoo</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>Nouveau Limoges</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>Sol Jump Gate</td>
+    </tr>
+    <tr>
+      <td colspan="22">Alpha Centauri</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td>Alpha Centauri Jump Gate</td>
+      <td>7</td>
+      <td>C</td>
+      <td><img src="assets/png/piggy-bank.png" title="Bank"/></td>
+      <td><img src="assets/png/bars.png" title="Brig"/></td>
+      <td><img src="assets/png/dna.png" title="Clones"/></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
+      <td>&nbsp;</td>
+      <td><img src="assets/png/ship.png" title="Port"/></td>
+      <td>&nbsp;</td>
+      <td><img src="assets/png/university.png" title="Ruins"/></td>
+      <td>&nbsp;</td>
+      <td><img src="assets/png/officer.png" title="Security"/></td>
+      <td>&nbsp;</td>
+      <td><img src="assets/png/syringe.png" title="Sick Bay"/></td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td colspan="22">Bernard's Star</td>
+    </tr>
+    <tr>
+      <td colspan="22">L 726-8<td>
     </tr>
   </tbody>
 </table>
