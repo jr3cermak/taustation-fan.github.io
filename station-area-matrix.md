@@ -32,8 +32,8 @@ This page is part of the [Unofficial Players Guide to Tau Station](/).
     <th>University</th>
   </thead>
   <tbody>
-    <tr>
-      <td colspan="22">Sol</td>
+    <tr style="background-color: black;">
+      <td colspan="22" style="color:white">Sol</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
