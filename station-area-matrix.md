@@ -32,19 +32,39 @@ This page is part of the [Unofficial Player's Guide to Tau Station](/).
     <th>University</th>
   </thead>
   <tbody>
-    <tr style="background-color:black;">
-      <td colspan="22" style="color:white;">Sol</td>
+    <tr>
+      <td colspan="22">Sol</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
       <td>Tau Station</td>
       <td>1</td>
+      <td>C</td>
+      <td><img src="assets/png/piggy-bank.png" title="Bank"/></td>
+      <td><img src="assets/png/bars.png" title="Brig"/></td>
+      <td><img src="assets/png/dna.png" title="Clones"/></td>
+      <td><img src="assets/png/asterisk.png" title="Decommissioned"/></td>
+      <td>G</td>
+      <td><img src="assets/png/balance-scale.png" title="Gov't Center"/></td>
+      <td>30</td>
+      <td><img src="assets/png/bed.png" title="Inn"/></td>
+      <td><img src="assets/png/briefcase.png" title="Employment"/></td>
+      <td><img src="assets/png/shopping-cart.png" title="Market"/></td>
+      <td><img src="assets/png/ship.png" title="Port"/></td>
+      <td><img src="assets/png/building.png" title="Residences"/></td>
+      <td><img src="assets/png/university.png" title="Ruins"/></td>
+      <td>&nbsp;</td>
+      <td><img src="assets/png/officer.png" title="Security"/></td>
+      <td>&nbsp;</td>
+      <td><img src="assets/png/syringe.png" title="Sick Bay"/></td>
+      <td><img src="assets/png/graduation-cap.png" title="University"/></td>
     </tr>
     <tr>
       <td>&nbsp;</td>
+      <td>København</td>
     </tr>
     <tr>
-      <td><img src="assets/png/bars.png" title="bars"/></td>
+      <td><img src="assets/png/bars.png" title="brig"/></td>
       <td>bars</td>
     </tr>
   </tbody>
