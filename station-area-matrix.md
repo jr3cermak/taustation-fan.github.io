@@ -1,4 +1,4 @@
-This page is part of the [Unofficial Players Guide to Tau Station](/).
+This page is part of the [Unofficial Player's Guide to Tau Station](/).
 
 # Table of Contents
 
@@ -17,7 +17,7 @@ This page is part of the [Unofficial Players Guide to Tau Station](/).
     <th>Clones</th>
     <th>Decom</th>
     <th>Embassy</th>
-    <th>Govt Center</th>
+    <th>Gov't Center</th>
     <th>Gym</th>
     <th>Inn</th>
     <th>Employment</th>
@@ -32,8 +32,8 @@ This page is part of the [Unofficial Players Guide to Tau Station](/).
     <th>University</th>
   </thead>
   <tbody>
-    <tr style="background-color: black;">
-      <td colspan="22" style="color:white">Sol</td>
+    <tr style="background-color:black;">
+      <td colspan="22" style="color:white;">Sol</td>
     </tr>
     <tr>
       <td>&nbsp;</td>
