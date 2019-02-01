@@ -1,4 +1,4 @@
-This page is part of the [Unofficial Player's Guide to Tau Station](/).
+This page is part of the [Unofficial Players Guide to Tau Station](/).
 
 # Table of Contents
 
@@ -6,39 +6,42 @@ This page is part of the [Unofficial Player's Guide to Tau Station](/).
 
 # Station Area Table
 
-<style>
-th.rotate {
-    /* Something you can count on */
-      height: 140px;
-        white-space: nowrap;
-}
-
-th.rotate > div {
-    transform: 
-      /* Magic Numbers */
-        translate(25px, 51px)
-          /* 45 is really 360 - 45 */
-            rotate(315deg);
-              width: 30px;
-}
-th.rotate > div > span {
-    border-bottom: 1px solid #ccc;
-      padding: 5px 10px;
-}
-</style>
-
 <table>
   <thead>
-    <th class="rotate">One</th>
-    <th>Two</th>
+    <th>Star</th>
+    <th>Station</th>
+    <th>Level</th>
+    <th>Affiliation</th>
+    <th>Bank</th>
+    <th>Brig</th>
+    <th>Clones</th>
+    <th>Decom</th>
+    <th>Embassy</th>
+    <th>Govt Center</th>
+    <th>Gym</th>
+    <th>Inn</th>
+    <th>Employment</th>
+    <th>Market</th>
+    <th>Port</th>
+    <th>Residences</th>
+    <th>Ruins</th>
+    <th>Sewers</th>
+    <th>Security</th>
+    <th>Shipyard</th>
+    <th>Sick Bay</th>
+    <th>University</th>
   </thead>
   <tbody>
     <tr>
-      <td>One</td>
-      <td>Two</td>
+      <td colspan="22">Sol</td>
     </tr>
     <tr>
-      <td colspan="2">Three</td>
+      <td>&nbsp;</td>
+      <td>Tau Station</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
     </tr>
     <tr>
       <td><img src="assets/png/bars.png" title="bars"/></td>
